@@ -12,22 +12,22 @@ body {
 }
 header {
     text-align: center;
-    margin: 80px 0 30px;
+    margin: 75px 0 0;
 }
 header h1{
     font-weight: 200;
     color: hsl(229, 6%, 66%);
-    font-size: 2.4rem;
+    font-size: 2.3rem;
 }
 header span{
     font-weight: 600;
-    font-size: 2.4rem;
+    font-size: 2.3rem;
     color: hsl(234, 12%, 34%);
 }
 header p{
     font-weight: 400;
     max-width: 520px;
-    margin: 10px auto 60px;
+    margin: 10px auto 40px;
     color: rgb(163, 165, 174);
 }
 .cards {
